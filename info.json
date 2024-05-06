@@ -1,0 +1,68 @@
+{
+    "teams": [
+      {
+        "name": "New York Knicks",
+        "players": [
+          {"name": "Jalen Brunson", "age": 27, "gp": 77, "ppg": 28.7, "rpg": 3.6, "apg": 6.7},
+          {"name": "Josh Hart", "age": 27, "gp": 81, "ppg": 9.4, "rpg": 8.3, "apg": 4.1},
+          {"name": "Austin Reaves", "age": 26, "gp": 82, "ppg": 15.9, "rpg": 4.3, "apg": 5.5},
+          {"name": "Donte DiVincenzo", "age": 23, "gp": 81, "ppg": 15.5, "rpg": 3.7, "apg": 2.7},
+          {"name": "RJ Barrett", "age": 18, "gp": 58, "ppg": 20.2, "rpg": 5.4, "apg": 3.3},
+          {"name": "Isaiah Hartenstein", "age": 18, "gp": 75, "ppg": 7.8, "rpg": 8.3, "apg": 2.5},
+          {"name": "Miles McBride", "age": 13, "gp": 68, "ppg": 8.3, "rpg": 1.5, "apg": 1.7},
+          {"name": "Caleb Houstan", "age": 8, "gp": 59, "ppg": 4.3, "rpg": 1.4, "apg": 0.5}
+        ]
+      },
+      {
+        "name": "Golden State Warriors",
+        "players": [
+          {"name": "Stephen Curry", "age": 24, "gp": 74, "ppg": 26.4, "rpg": 4.5, "apg": 5.1},
+          {"name": "Klay Thompson", "age": 22, "gp": 77, "ppg": 17.9, "rpg": 3.3, "apg": 2.3},
+          {"name": "Andrew Wiggins", "age": 19, "gp": 71, "ppg": 13.2, "rpg": 4.5, "apg": 1.7},
+          {"name": "Jonathan Kuminga", "age": 19, "gp": 74, "ppg": 16.1, "rpg": 4.8, "apg": 2.2},
+          {"name": "Moses Moody", "age": 11, "gp": 66, "ppg": 8.1, "rpg": 3.0, "apg": 0.9},
+          {"name": "Draymond Green", "age": 14, "gp": 55, "ppg": 8.6, "rpg": 7.2, "apg": 6.0},
+          {"name": "Trayce Jackson-Davis", "age": 11, "gp": 68, "ppg": 7.9, "rpg": 5.0, "apg": 1.2},
+          {"name": "Brandin Podziemski", "age": 19, "gp": 74, "ppg": 9.2, "rpg": 5.8, "apg": 3.7},
+          {"name": "Dario Saric", "age": 10, "gp": 64, "ppg": 8.0, "rpg": 4.4, "apg": 2.3}
+        ]
+      },
+      {
+        "name": "Boston Celtics",
+        "players": [
+          {"name": "Jayson Tatum", "age": 26, "gp": 74, "ppg": 26.9, "rpg": 8.1, "apg": 4.9},
+          {"name": "Derrick White", "age": 23, "gp": 73, "ppg": 15.2, "rpg": 4.2, "apg": 4.4},
+          {"name": "Jaylen Brown", "age": 21, "gp": 69, "ppg": 21.8, "rpg": 6.4, "apg": 3.1},
+          {"name": "Al Horford", "age": 23, "gp": 64, "ppg": 12.6, "rpg": 7.5, "apg": 3.4},
+          {"name": "Malcolm Brogdon", "age": 18, "gp": 68, "ppg": 13.7, "rpg": 4.3, "apg": 3.8},
+          {"name": "Sam Hauser", "age": 19, "gp": 75, "ppg": 8.3, "rpg": 2.9, "apg": 1.1},
+          {"name": "Payton Pritchard", "age": 12, "gp": 64, "ppg": 7.6, "rpg": 2.1, "apg": 2.5}
+        ]
+      },
+      {
+        "name": "Miami Heat",
+        "players": [
+          {"name": "Jimmy Butler", "age": 23, "gp": 68, "ppg": 25.4, "rpg": 5.9, "apg": 5.5},
+          {"name": "Tyler Herro", "age": 19, "gp": 74, "ppg": 21.0, "rpg": 5.5, "apg": 4.7},
+          {"name": "Max Strus", "age": 18, "gp": 78, "ppg": 14.9, "rpg": 4.1, "apg": 3.3},
+          {"name": "Caleb Martin", "age": 18, "gp": 80, "ppg": 9.3, "rpg": 3.8, "apg": 1.6},
+          {"name": "Gabe Vincent", "age": 12, "gp": 68, "ppg": 8.6, "rpg": 2.0, "apg": 3.2},
+          {"name": "Haywood Highsmith", "age": 15, "gp": 65, "ppg": 7.8, "rpg": 3.3, "apg": 1.9}
+        ]
+      },
+      {
+        "name": "Los Angeles Lakers",
+        "players": [
+          {"name": "LeBron James", "age": 23, "gp": 74, "ppg": 29.5, "rpg": 7.5, "apg": 6.9},
+          {"name": "Anthony Davis", "age": 18, "gp": 59, "ppg": 27.2, "rpg": 12.5, "apg": 2.6},
+          {"name": "D'Angelo Russell", "age": 19, "gp": 67, "ppg": 16.9, "rpg": 3.2, "apg": 6.3},
+          {"name": "Austin Reaves", "age": 26, "gp": 81, "ppg": 17.2, "rpg": 4.1, "apg": 3.9},
+          {"name": "Jarred Vanderbilt", "age": 19, "gp": 75, "ppg": 9.1, "rpg": 7.2, "apg": 1.8},
+          {"name": "Rui Hachimura", "age": 18, "gp": 61, "ppg": 11.8, "rpg": 5.3, "apg": 1.4},
+          {"name": "Lonnie Walker IV", "age": 17, "gp": 58, "ppg": 10.5, "rpg": 2.6, "apg": 1.2},
+          {"name": "Troy Brown Jr.", "age": 19, "gp": 63, "ppg": 6.7, "rpg": 4.1, "apg": 1.5}
+        ]
+      }
+    ]
+  }
+  
